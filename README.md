@@ -1,5 +1,6 @@
 # Lumen PHP Framework
 
+[![Run on Repl.it](https://repl.it/badge/github/djodisetiawan/lumen)](https://repl.it/github/djodisetiawan/lumen)
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
